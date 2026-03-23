@@ -9,9 +9,10 @@ Escuela de Ingeniería en Ciencias y Sistemas
 
 LABORATORIO COMUNICACION ASERTIVA Sección A
 
-**Integrantes:** ———————————————
-
-**Fecha:** ———————————————
+| Integrante | Carné |
+|-----------|-------|
+| Jeimy González  | 202504807 |
+| Danya Nicolle Gómez Ruiz | 202503869 |
 
 ---
 

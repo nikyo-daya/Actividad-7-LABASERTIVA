@@ -49,11 +49,13 @@
 
 Los siguientes mensajes simulan una conversación profesional durante una sesión de trabajo remoto, aplicando normas de netiqueta: comunicación clara, tono respetuoso, estructura ordenada y confirmación de tareas.
 
-![](img/chat1.png)
-![](img/chat2.png)
-![](img/chat3.png)
-![](img/chat4.png)
-![](img/chat5.png)
+<p align="center">
+  <img src="chat1.jpeg" width="280">
+  <img src="chat2.jpeg" width="280">
+  <img src="chat3.jpeg" width="280">
+  <img src="chat4.jpeg" width="280">
+  <img src="chat5.jpeg" width="280">
+</p>
 
 
 ## 3. Issues y Pull Requests
